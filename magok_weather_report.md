@@ -2,7 +2,8 @@
 
 - 기준 시각(KST): 2026-05-08 09:08:43 (UTC+09:00)
 - 수집 시각(UTC): 2026-05-08 00:08:43 (UTC)
-- 조회 지점: Kayangni, , South Korea
+- 조회 요청 지역: 서울특별시 강서구 마곡동
+- API 매칭 지점: Kayangni, South Korea
 - 데이터 출처: wttr.in (World Weather Online 기반)
 
 ## 1) 현재 날씨
